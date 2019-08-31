@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+500features_30minwords_10context
+imdbEr.txt
+test/
+train/
